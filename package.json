@@ -1,0 +1,15 @@
+{
+  "name": "fcc-microservices",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jpetersun/fcc-microservices.git",
+  "author": "James Peterson <jpeterson@einsteinmedical.com>",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^7.2.0",
+    "express": "^4.16.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
